@@ -1,0 +1,5 @@
+"x"
+"1" " 황/NC 등/NB 명종/NC 행장/NC 수찬하/NC 하/PX"
+"2" " 황/NC 등/NB 명하/PV 대행왕/NC 의/NC 행장/NC 수찬/NC 하/PX 하였/NC"
+"3" " 황/NC 예판/NC 겸/NB 동지경연/NC 춘추관사/NC 삼/NN"
+"4" " 황/NC 예조/NC 판/NB 겸/NB 동지경연/NC 춘추관사/NC 로/NC 삼았/NC"
